@@ -11,9 +11,9 @@
 <img width="730" alt="Screenshot 2023-01-30 at 14 29 56" src="https://user-images.githubusercontent.com/91337360/215466716-9b2e49d8-8a9b-4660-8be4-10997fcac2c0.png">
 
 
-Адаптивные страницы
-<img width="687" alt="Screenshot 2023-01-30 at 14 36 59" src="https://user-images.githubusercontent.com/91337360/215466570-95b5e639-0e6b-4c59-b323-d4967fd1f37c.png">
-
-
 Личный кабинет
-<img width="879" alt="Screenshot 2023-01-30 at 14 31 22" src="https://user-images.githubusercontent.com/91337360/215467051-54f9458b-d669-4060-ab37-2647ad36e661.png">
+<img width="671" alt="Screenshot 2023-01-30 at 14 45 48" src="https://user-images.githubusercontent.com/91337360/215468510-3ddcf288-69a3-4ede-b4c8-9948206955df.png">
+
+
+Адаптивные страницы
+<img width="493" alt="Screenshot 2023-01-30 at 14 43 15" src="https://user-images.githubusercontent.com/91337360/215468549-50365ac9-e161-4b0f-85b1-849eab0268bd.png">
